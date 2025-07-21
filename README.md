@@ -12,8 +12,8 @@ A complete customer churn analysis pipeline combining **SQL**, **Power BI**, and
 
 ## 📚 Table of Contents
 
-- [📌 Project Overview](#-project-overview)  
-- [📊 Power BI Dashboard Link](#-power-bi-dashboard-link)  
+ [📌 Project Overview](#-project-overview)  
+[📊 Power BI Dashboard Link](#-power-bi-dashboard-link)  
 - [🎯 Goals](#-goals)  
 - [📈 Key Reports & Features](#-key-reports--features)  
 - [🛠️ Project Components & Included Files](#️-project-components--included-files)  
