@@ -2,6 +2,15 @@
 
 A complete customer churn analysis pipeline combining **SQL**, **Power BI**, and **Python**. This project simulates a real-world data analytics workflow—starting from ETL and cleaning in **SQL Server**, developing meaningful visuals in **Power BI**, and training a **Random Forest classifier** in **Python** to predict customer churn. The final dashboard helps businesses understand churn behavior and identify high-risk customers for timely retention strategies.
 
+---
+
+The pipeline includes -
+![Python](https://img.shields.io/badge/Built%20With-Python-blue?logo=python)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
+![SQL](https://img.shields.io/badge/Data-SQL%20Server-red?logo=databricks)
+
+---
+
 ## 📌 Project Overview  
 
 This end-to-end churn analysis project is designed to solve a typical business problem: identifying customers likely to churn and taking proactive measures to retain them.  
@@ -44,16 +53,12 @@ The pipeline includes:
 
 ## 🛠️ Project Components & Included Files  
 
-| Folder / File       | Description                                           |
-|---------------------|-------------------------------------------------------|
-| `Alphaslash/`       | Core project files including model and transformations |
-| `Background/`       | Custom background images used in Power BI visuals     |
-| `Excel files/`      | Cleaned and raw datasets in Excel format              |
-| `Images/`           | Screenshots and visual assets used in the repo        |
-| `SQL files/`        | SQL scripts for ETL, cleaning, and aggregation        |
-| `README.md`         | This project documentation file                       |
-
----
+- **Alphaslash/** — Core project files including model and transformations  
+- **Background/** — Background images used in Power BI visuals  
+- **Excel files/** — Cleaned and raw datasets in Excel format  
+- **Images/** — Screenshots and visual assets used in the repo  
+- **SQL files/** — SQL scripts for ETL, cleaning, and aggregation  
+- **README.md** — This project documentation file  
 
 ## 💡 Why This Project?  
 
@@ -67,7 +72,7 @@ The pipeline includes:
 ## 📬 Let's Connect  
 
 Feel free to explore the dashboard, fork the repo, or reach out for feedback or collaboration.  
-👤 [Gitesh Garg on LinkedIn](https://www.linkedin.com/in/gitesh-garg-/)
+👤 [LinkedIn](https://www.linkedin.com/in/gitesh-garg-/)
 
 ---
 
