@@ -2,27 +2,6 @@
 
 A complete customer churn analysis pipeline combining **SQL**, **Power BI**, and **Python**. This project simulates a real-world data analytics workflow—starting from ETL and cleaning in **SQL Server**, developing meaningful visuals in **Power BI**, and training a **Random Forest classifier** in **Python** to predict customer churn. The final dashboard helps businesses understand churn behavior and identify high-risk customers for timely retention strategies.
 
----
-
-![Python](https://img.shields.io/badge/Built%20With-Python-blue?logo=python)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow?logo=powerbi)
-![SQL](https://img.shields.io/badge/Data-SQL%20Server-red?logo=databricks)
-
----
-
-## 📚 Table of Contents
-
- [📌 Project Overview](#-project-overview)  
-[📊 Power BI Dashboard Link](#-power-bi-dashboard-link)  
-- [🎯 Goals](#-goals)  
-- [📈 Key Reports & Features](#-key-reports--features)  
-- [🛠️ Project Components & Included Files](#️-project-components--included-files)  
-- [💡 Why This Project?](#-why-this-project)  
-- [📬 Let's Connect](#-lets-connect)  
-- [🏷️ Tags](#-tags)
-
----
-
 ## 📌 Project Overview  
 
 This end-to-end churn analysis project is designed to solve a typical business problem: identifying customers likely to churn and taking proactive measures to retain them.  
