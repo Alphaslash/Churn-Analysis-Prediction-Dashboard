@@ -23,14 +23,13 @@ The pipeline includes:
 
 ---
 
-## 🖼️ Project Screenshots  
+## 🖼️ Project Screenshots
 
-### Dashboard Overview  
-![Dashboard Overview](Images/Dashboard_Overview.png)
+### Dashboard Overview
+![Dashboard Overview](Images/dashboard_overview.jpeg)
 
-### Churn Prediction Analysis  
-![Churn Prediction](Images/Churn_Prediction.png)
-
+### Churn Prediction Analysis
+![Churn Prediction Analysis](Images/churn_prediction_analysis.jpeg)
 
 ---
 
