@@ -19,12 +19,18 @@ The pipeline includes:
 - Cleaning and transforming raw customer data using **SQL Server**  
 - Creating interactive and dynamic dashboards in **Power BI**  
 - Training a **Random Forest** machine learning model in **Python**  
-- Visualizing model predictions within Power BI
+- Visualizing model predictions within Power BI  
 
 ---
 
-## 📊 Power BI Dashboard Link  
-🔗 [View the live dashboard](https://your-dummy-link.com) *(link to be updated)*
+## 🖼️ Project Screenshots  
+
+### Dashboard Overview  
+![Dashboard Overview](Images/Dashboard_Overview.png)
+
+### Churn Prediction Analysis  
+![Churn Prediction](Images/Churn_Prediction.png)
+
 
 ---
 
@@ -34,20 +40,20 @@ The pipeline includes:
 - Visualize customer churn KPIs in Power BI  
 - Train a Random Forest classifier to predict churn  
 - Integrate model output into Power BI reports  
-- Deliver actionable insights for business decision-makers
+- Deliver actionable insights for business decision-makers  
 
 ---
 
 ## 📈 Key Reports & Features  
 
 **Summary Report**  
-- Total customers, new joiners, and churn overview
+- Total customers, new joiners, and churn overview  
 
 **Churn Prediction Page**  
-- Profile of predicted churners vs. retained users
+- Profile of predicted churners vs. retained users  
 
 **Model Insights**  
-- Importance of key churn predictors and accuracy evaluation
+- Importance of key churn predictors and accuracy evaluation  
 
 ---
 
@@ -60,21 +66,24 @@ The pipeline includes:
 - **SQL files/** — SQL scripts for ETL, cleaning, and aggregation  
 - **README.md** — This project documentation file  
 
+---
+
 ## 💡 Why This Project?  
 
 - Demonstrates practical use of SQL + Power BI + Machine Learning  
 - Applies EDA, modeling, and visualization in one workflow  
 - Shows how predicted data can be communicated to business stakeholders visually  
-- Portfolio-ready project for data analyst or business analyst roles
+- Portfolio-ready project for data analyst or business analyst roles  
 
 ---
 
 ## 📬 Let's Connect  
 
-Feel free to explore the dashboard, fork the repo, or reach out for feedback or collaboration.  
+Feel free to explore the repository, fork the project, or reach out for feedback or collaboration.  
 👤 [LinkedIn](https://www.linkedin.com/in/gitesh-garg-/)
 
 ---
 
 ## 🏷️ Tags  
+
 #PowerBI #SQL #Python #ChurnPrediction #RandomForest #DataAnalytics #BusinessIntelligence #CustomerRetention #ETL #PortfolioProject
